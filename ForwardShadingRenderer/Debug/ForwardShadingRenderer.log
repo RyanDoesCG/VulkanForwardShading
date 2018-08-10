@@ -1,2 +1,19 @@
-﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  ForwardShadingRenderer.vcxproj -> \\ds.leeds.ac.uk\student\student19\sc17rtn\ProjectDemos\ForwardShadingRenderer\Debug\ForwardShadingRenderer.exe
+﻿  VulkanShaders.cpp
+  VulkanApp.cpp
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\timer.hpp(65): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\meshio.hpp(240): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\meshio.hpp(252): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\vulkanapp.cpp(707): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\vulkanapp.cpp(716): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\vulkanapp.cpp(1434): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\vulkanapp.cpp(1480): warning C4305: 'argument': truncation from 'double' to 'float'
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\vulkanapp.cpp(1550): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\vulkanapp.cpp(1551): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  \\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+  main.cpp
+\\ds.leeds.ac.uk\student\student19\sc17rtn\projectdemos\forwardshadingrenderer\vulkanforwardshading\forwardshadingrenderer\timer.hpp(65): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+  Generating Code...
+  LINK : \\ds.leeds.ac.uk\student\student19\sc17rtn\ProjectDemos\ForwardShadingRenderer\VulkanForwardShading\Debug\ForwardShadingRenderer.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ForwardShadingRenderer.vcxproj -> \\ds.leeds.ac.uk\student\student19\sc17rtn\ProjectDemos\ForwardShadingRenderer\VulkanForwardShading\Debug\ForwardShadingRenderer.exe
