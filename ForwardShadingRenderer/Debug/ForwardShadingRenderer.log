@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ForwardShadingRenderer.vcxproj -> \\ds.leeds.ac.uk\student\student19\sc17rtn\ProjectDemos\ForwardShadingRenderer\Debug\ForwardShadingRenderer.exe
